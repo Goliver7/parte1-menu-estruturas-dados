@@ -1,0 +1,14 @@
+C:\Users\guilh\Downloads\Parte1\Parte1\bin\Debug\net8.0\Parte1.exe
+C:\Users\guilh\Downloads\Parte1\Parte1\bin\Debug\net8.0\Parte1.deps.json
+C:\Users\guilh\Downloads\Parte1\Parte1\bin\Debug\net8.0\Parte1.runtimeconfig.json
+C:\Users\guilh\Downloads\Parte1\Parte1\bin\Debug\net8.0\Parte1.dll
+C:\Users\guilh\Downloads\Parte1\Parte1\bin\Debug\net8.0\Parte1.pdb
+C:\Users\guilh\Downloads\Parte1\Parte1\obj\Debug\net8.0\Parte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Downloads\Parte1\Parte1\obj\Debug\net8.0\Parte1.AssemblyInfoInputs.cache
+C:\Users\guilh\Downloads\Parte1\Parte1\obj\Debug\net8.0\Parte1.AssemblyInfo.cs
+C:\Users\guilh\Downloads\Parte1\Parte1\obj\Debug\net8.0\Parte1.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Downloads\Parte1\Parte1\obj\Debug\net8.0\Parte1.dll
+C:\Users\guilh\Downloads\Parte1\Parte1\obj\Debug\net8.0\refint\Parte1.dll
+C:\Users\guilh\Downloads\Parte1\Parte1\obj\Debug\net8.0\Parte1.pdb
+C:\Users\guilh\Downloads\Parte1\Parte1\obj\Debug\net8.0\Parte1.genruntimeconfig.cache
+C:\Users\guilh\Downloads\Parte1\Parte1\obj\Debug\net8.0\ref\Parte1.dll
